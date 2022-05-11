@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "react-front": "apps/react-front",
+    "react-front-e2e": "apps/react-front-e2e"
+  }
+}
